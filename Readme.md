@@ -1,1 +1,1 @@
-Practicinn Godot .
+Practicing Godot .
