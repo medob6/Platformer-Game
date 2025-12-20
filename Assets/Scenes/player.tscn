@@ -1,7 +1,0 @@
-[gd_scene format=3 uid="uid://c1n0mauiars5l"]
-
-[node name="player"]
-
-[node name="Camera2D" parent="." index="0"]
-offset = Vector2(0, -15)
-zoom = Vector2(6, 6)
