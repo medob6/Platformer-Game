@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxv2mktcqxp7w"
-path="res://.godot/imported/Vintage-Decorative-Divider.svg-638af6e1bbd15617692d9b665ac78585.ctex"
+path="res://.godot/imported/Vintage-Decorative-Divider.svg-3ff051c83301776eaf312e5b2bbd2824.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Main/Background/Vintage-Decorative-Divider.svg"
-dest_files=["res://.godot/imported/Vintage-Decorative-Divider.svg-638af6e1bbd15617692d9b665ac78585.ctex"]
+source_file="res://Platformer-Game/Main/Background/Vintage-Decorative-Divider.svg"
+dest_files=["res://.godot/imported/Vintage-Decorative-Divider.svg-3ff051c83301776eaf312e5b2bbd2824.ctex"]
 
 [params]
 

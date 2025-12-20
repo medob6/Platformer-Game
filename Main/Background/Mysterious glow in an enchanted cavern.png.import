@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d01e63edlpeus"
-path="res://.godot/imported/Mysterious glow in an enchanted cavern.png-d55ce5565eac3d7280697486a1dd602f.ctex"
+path="res://.godot/imported/Mysterious glow in an enchanted cavern.png-c55e905abd6ec09a23b9afe2ff324a51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Main/Background/Mysterious glow in an enchanted cavern.png"
-dest_files=["res://.godot/imported/Mysterious glow in an enchanted cavern.png-d55ce5565eac3d7280697486a1dd602f.ctex"]
+source_file="res://Platformer-Game/Main/Background/Mysterious glow in an enchanted cavern.png"
+dest_files=["res://.godot/imported/Mysterious glow in an enchanted cavern.png-c55e905abd6ec09a23b9afe2ff324a51.ctex"]
 
 [params]
 

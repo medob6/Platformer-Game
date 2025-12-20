@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh36dgtankcco"
-path="res://.godot/imported/Vintage-French-Divider.svg-e2b2ee1a52444f6827efbebf7dcd96b6.ctex"
+path="res://.godot/imported/Vintage-French-Divider.svg-90e9eea2fdf3b95e75be185ee6df3b3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Main/Background/Vintage-French-Divider.svg"
-dest_files=["res://.godot/imported/Vintage-French-Divider.svg-e2b2ee1a52444f6827efbebf7dcd96b6.ctex"]
+source_file="res://Platformer-Game/Main/Background/Vintage-French-Divider.svg"
+dest_files=["res://.godot/imported/Vintage-French-Divider.svg-90e9eea2fdf3b95e75be185ee6df3b3b.ctex"]
 
 [params]
 
