@@ -1,0 +1,141 @@
+[gd_scene load_steps=10 format=3 uid="uid://eqglujpjm60d"]
+
+[ext_resource type="Script" uid="uid://cpg1jhbkhrhl2" path="res://scripts/option.gd" id="1_6b6wo"]
+[ext_resource type="Texture2D" uid="uid://d01e63edlpeus" path="res://Main/Background/Mysterious glow in an enchanted cavern.png" id="2_dlcxs"]
+[ext_resource type="FontFile" uid="uid://031mlgepiaml" path="res://Main/Background/Dust Serif.ttf" id="3_rusta"]
+[ext_resource type="Texture2D" uid="uid://cxv2mktcqxp7w" path="res://Main/Background/Vintage-Decorative-Divider.svg" id="4_dlcxs"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_0fbet"]
+texture = ExtResource("2_dlcxs")
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uchyk"]
+bg_color = Color(0.43134022, 0.43134025, 0.43134025, 1)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_62e2m"]
+bg_color = Color(0.94246465, 1.1123183, 1.7657896, 0.929)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_62e2m"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_rusta"]
+texture = ExtResource("4_dlcxs")
+
+[node name="Option" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_6b6wo")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 2.0
+offset_right = 2.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_0fbet")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -241.0
+offset_top = 36.0
+offset_right = 221.0
+offset_bottom = 245.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 14
+
+[node name="Button1" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_uchyk")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_62e2m")
+theme_override_styles/hover = SubResource("StyleBoxFlat_uchyk")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_62e2m")
+text = " Volume Music
+"
+
+[node name="Button2" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_uchyk")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_62e2m")
+theme_override_styles/hover = SubResource("StyleBoxFlat_uchyk")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_62e2m")
+text = "Effect Volume"
+
+[node name="Button3" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_uchyk")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_62e2m")
+theme_override_styles/hover = SubResource("StyleBoxFlat_uchyk")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_62e2m")
+text = "Back "
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -259.0
+offset_top = -280.0
+offset_right = 259.0
+offset_bottom = -134.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.12225223, 0.12225223, 0.12225223, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0)
+theme_override_constants/shadow_offset_y = 185
+theme_override_fonts/font = ExtResource("3_rusta")
+theme_override_font_sizes/font_size = 65
+text = "KEYBOARD"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Panel2" type="Panel" parent="."]
+layout_mode = 0
+offset_left = 781.99994
+offset_top = 96.0
+offset_right = 1198.9285
+offset_bottom = 148.0
+rotation = -3.1402986
+mouse_force_pass_scroll_events = false
+theme_override_styles/panel = SubResource("StyleBoxTexture_rusta")
+
+[connection signal="pressed" from="VBoxContainer/Button1" to="." method="_on_start_1_pressed"]
+[connection signal="pressed" from="VBoxContainer/Button2" to="." method="_on_settings_pressed"]
+[connection signal="pressed" from="VBoxContainer/Button3" to="." method="_on_back_pressed"]
+[connection signal="pressed" from="VBoxContainer/Button3" to="." method="_on_button_3_pressed"]
+[connection signal="pressed" from="VBoxContainer/Button3" to="." method="_on_exit_pressed"]
