@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1766216279
+icon.svg::CompressedTexture2D::268961727305060957::1766172987::1766172989::1::::<><><>0<>0<>d507bf07b75ceecb5bdd87d086da09d6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Readme.md::TextFile::-1::1766173087::0::1::::<><><>0<>0<><>::
+::res://Assets/::1766173779
+::res://Assets/Scenes/::1766173704
+::res://Assets/Scenes/Areas/::1766216375
+area_1.tscn::PackedScene::422301897045386198::1766216375::0::1::::<><><>0<>0<><>::
+::res://Assets/Scripts/::1766173745
+::res://Assets/Sprites/::1766216506
+enemy_1.png::CompressedTexture2D::6171948881917417619::1766216506::1766216514::1::::<><><>0<>0<>bd06c1fb3badaca8f58c2b821fceac5c<>res://.godot/imported/enemy_1.png-9300168548d6e7c6dd08bee358e19723.ctex::
+energy_cell.png::CompressedTexture2D::445586856893482093::1766216506::1766216514::1::::<><><>0<>0<>ddcf3f9e131f9cebc738f8d6f1a6593f<>res://.godot/imported/energy_cell.png-49b1550e7ad59049450360646dcdc815.ctex::
+platform1_large.png::CompressedTexture2D::1857539022510334217::1766216506::1766216514::1::::<><><>0<>0<>cbab1a51c99da2d478f667f413fe85d7<>res://.godot/imported/platform1_large.png-ab9f2edc2ca1b53cfa9cc14e8ba10afa.ctex::
+player.png::CompressedTexture2D::5701850220411594819::1766216506::1766216514::1::::<><><>0<>0<>882e3ecfdbdd6902245961dccbdd7401<>res://.godot/imported/player.png-7c09656d9ce490aabfa1a9222d99cb2e.ctex::
+portal.png::CompressedTexture2D::7663846014533371050::1766216506::1766216514::1::::<><><>0<>0<>c09a7f443e6aea9407197e19f0f60d48<>res://.godot/imported/portal.png-90664bc9fe17788cb41bd2481cacce24.ctex::
+tiles_1.png::CompressedTexture2D::4802447454740958525::1766216506::1766216514::1::::<><><>0<>0<>b835dca55a3acdc1bb02cfe4c29d544a<>res://.godot/imported/tiles_1.png-caae9e096ed63b671bb0775098168e12.ctex::
