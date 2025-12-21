@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://b8por3s6uresf"]
+
+[ext_resource type="PackedScene" uid="uid://4m1pc8hk6h6p" path="res://scenes/killzone.tscn" id="1_vrhdw"]
+
+[node name="Area2D" type="Area2D"]
+
+[node name="Killzone" parent="." instance=ExtResource("1_vrhdw")]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Killzone"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
