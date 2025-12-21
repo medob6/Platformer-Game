@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://dfom2exjcapgu"
-path="res://.godot/imported/Pixelout Personal Use Only.ttf-656af9e6a6706ea2a52ce62bd247cea6.fontdata"
+path="res://.godot/imported/Pixelout Personal Use Only.ttf-69d2b8abe4be949c96ea0bc416fea350.fontdata"
 
 [deps]
 
-source_file="res://Platformer-Game/Main/Background/Pixelout Personal Use Only.ttf"
-dest_files=["res://.godot/imported/Pixelout Personal Use Only.ttf-656af9e6a6706ea2a52ce62bd247cea6.fontdata"]
+source_file="res://Main/Background/Pixelout Personal Use Only.ttf"
+dest_files=["res://.godot/imported/Pixelout Personal Use Only.ttf-69d2b8abe4be949c96ea0bc416fea350.fontdata"]
 
 [params]
 

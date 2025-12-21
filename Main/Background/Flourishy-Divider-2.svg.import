@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i84rs2igcf4u"
-path="res://.godot/imported/Flourishy-Divider-2.svg-b69ae2fd5e087dc7caeb428d75a489a5.ctex"
+path="res://.godot/imported/Flourishy-Divider-2.svg-94ec3cca13ad2dac3c0e8b0b55715e73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Platformer-Game/Main/Background/Flourishy-Divider-2.svg"
-dest_files=["res://.godot/imported/Flourishy-Divider-2.svg-b69ae2fd5e087dc7caeb428d75a489a5.ctex"]
+source_file="res://Main/Background/Flourishy-Divider-2.svg"
+dest_files=["res://.godot/imported/Flourishy-Divider-2.svg-94ec3cca13ad2dac3c0e8b0b55715e73.ctex"]
 
 [params]
 

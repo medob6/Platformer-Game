@@ -1,0 +1,50 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1766284514
+coin.gd::GDScript::9062306725736982443::1766284341::0::1::::<>Area2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::5653505140951467421::1766271900::1766272215::1::::<><><>0<>0<>822cff418d4e86e41f1f084259aabc0a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1766271900
+LICENSE & CREDITS.txt::TextFile::-1::1766271900::0::1::::<><><>0<>0<><>::
+::res://assets/fonts/::1766272215
+PixelOperator8-Bold.ttf::FontFile::8186969189368899475::1766271900::1766272215::1::::<><><>0<>0<>f54593b23d087f8bc7e4b519cb6af823<>res://.godot/imported/PixelOperator8-Bold.ttf-74faf550739674ad3170f08e646e0614.fontdata::
+PixelOperator8.ttf::FontFile::787380671316591317::1766271900::1766272215::1::::<><><>0<>0<>3e7ffa9e62fe1c441dd24131901b9d4d<>res://.godot/imported/PixelOperator8.ttf-6f9f01766aff16f52046b880ffb8d367.fontdata::
+::res://assets/music/::1766272215
+time_for_adventure.mp3::AudioStreamMP3::6941426738418985402::1766271900::1766272215::1::::<><><>0<>0<>30238e5c8cae4c127f9bf668fd59e581<>res://.godot/imported/time_for_adventure.mp3-b8a49ae1cfc83b211be9d82e6e985655.mp3str::
+::res://assets/sounds/::1766272216
+coin.wav::AudioStreamWAV::4372244963965457773::1766271900::1766272216::1::::<><><>0<>0<>5ede892a7f88ad069c6ddbbdcfa2222a<>res://.godot/imported/coin.wav-9081ee1c6d81d9c34d08bc916297b892.sample::
+explosion.wav::AudioStreamWAV::2590747829369737686::1766271900::1766272216::1::::<><><>0<>0<>f07742f88691c91ce46376fb2887a1d6<>res://.godot/imported/explosion.wav-52e05e8d4b6600106c8dde082c90f915.sample::
+hurt.wav::AudioStreamWAV::4494487941565497953::1766271900::1766272216::1::::<><><>0<>0<>7553d956bc39a34ed18756ec02e89916<>res://.godot/imported/hurt.wav-792baeb99505afd6a1496d4e4330b023.sample::
+jump.wav::AudioStreamWAV::8826565551657870514::1766271900::1766272216::1::::<><><>0<>0<>5ee7861a9caacfc17dd4ff552ee2ef65<>res://.godot/imported/jump.wav-395b727cde98999423d5c020c9c3492f.sample::
+power_up.wav::AudioStreamWAV::2616420037755003406::1766271900::1766272216::1::::<><><>0<>0<>5f1af44234c18827d24c3d4fa2b07dde<>res://.godot/imported/power_up.wav-8349ffe570559470036ebff4b80f7fc0.sample::
+tap.wav::AudioStreamWAV::9125386921442281384::1766271900::1766272216::1::::<><><>0<>0<>8a8cdb870781bf487d21bf7662282a56<>res://.godot/imported/tap.wav-78d4c5a48b21a853d89bec74f20510e7.sample::
+::res://assets/sprites/::1766273757
+Background.webp::CompressedTexture2D::4815117802834084523::1766273755::1766273757::1::::<><><>0<>0<>9b96b1d35319e45f1cd2582e49fcd4db<>res://.godot/imported/Background.webp-438d6c97bffbb6d17e0da6439dc7c7eb.ctex::
+coin.png::CompressedTexture2D::1449554901786492799::1766271900::1766272215::1::::<><><>0<>0<>82f81422f48847c7f10498ceb2f9dd03<>res://.godot/imported/coin.png-c8309bf0f8fb5f3a7d1e96a4eb3f02ce.ctex::
+fruit.png::CompressedTexture2D::3827219302978197898::1766271900::1766272215::1::::<><><>0<>0<>4248a7bb295f2479775906cb4464cf40<>res://.godot/imported/fruit.png-3735163b668af10c2b35b52cba81b68a.ctex::
+knight.png::CompressedTexture2D::3154699680360640558::1766271900::1766272215::1::::<><><>0<>0<>c24c48db2c04c07808b18ce1a422a949<>res://.godot/imported/knight.png-7c67c83d34932624952797d9e971a644.ctex::
+platforms.png::CompressedTexture2D::160691021396808125::1766271900::1766272215::1::::<><><>0<>0<>87bafdf3b7d3600adc0ff402a14dd67a<>res://.godot/imported/platforms.png-3869606db457611ed4193d705dc364e4.ctex::
+slime_green.png::CompressedTexture2D::6257247781703753765::1766271900::1766272215::1::::<><><>0<>0<>96459a9f903750a71a52bf3783132b6c<>res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex::
+slime_purple.png::CompressedTexture2D::6919811228458138806::1766271900::1766272215::1::::<><><>0<>0<>c32c927d5a774c1210835ff692c8a41d<>res://.godot/imported/slime_purple.png-26dc5ddef235ce6a400e78e0d532b050.ctex::
+world_tileset.png::CompressedTexture2D::8698103022299503237::1766271900::1766272215::1::::<><><>0<>0<>117c16eb44eb5de711eb357e3627ed04<>res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex::
+::res://Main/::1766271900
+::res://Main/Background/::1766272216
+Dust Serif.ttf::FontFile::1814124326631049811::1766271900::1766272215::1::::<><><>0<>0<>e7a32b789b96386fb61092cada2db9a6<>res://.godot/imported/Dust Serif.ttf-efa3b526853e868e9d04e1adbdecef69.fontdata::
+Flourishy-Divider-2.svg::CompressedTexture2D::631427353776450994::1766271900::1766272215::1::::<><><>0<>0<>b4484a69aa81c1b8c8b39b31b1cec79a<>res://.godot/imported/Flourishy-Divider-2.svg-94ec3cca13ad2dac3c0e8b0b55715e73.ctex::
+Mysterious glow in an enchanted cavern.png::CompressedTexture2D::8967956668202407122::1766271900::1766272216::1::::<><><>0<>0<>78f9dd7d1e07f6363d9db7c771ed0c63<>res://.godot/imported/Mysterious glow in an enchanted cavern.png-d55ce5565eac3d7280697486a1dd602f.ctex::
+Pixelout Personal Use Only.ttf::FontFile::7539884624210442908::1766271900::1766272215::1::::<><><>0<>0<>d1a42ce187c531b840cc3e5e006533e6<>res://.godot/imported/Pixelout Personal Use Only.ttf-69d2b8abe4be949c96ea0bc416fea350.fontdata::
+Vintage-Decorative-Divider.svg::CompressedTexture2D::6432198046925715530::1766271900::1766272215::1::::<><><>0<>0<>2231bcf275be74f367062f59010d7563<>res://.godot/imported/Vintage-Decorative-Divider.svg-638af6e1bbd15617692d9b665ac78585.ctex::
+Vintage-French-Divider.svg::CompressedTexture2D::2937433094939629114::1766271900::1766272216::1::::<><><>0<>0<>22a29b35199b105df374156926da297c<>res://.godot/imported/Vintage-French-Divider.svg-e2b2ee1a52444f6827efbebf7dcd96b6.ctex::
+::res://scenes/::1766285142
+Box.tscn::PackedScene::1967653646349457576::1766283239::0::1::::<><><>0<>0<><>::uid://cmsunywnrf3cr::::res://icon.svg
+Coin.tscn::PackedScene::7085148224883108292::1766285178::0::1::::<><><>0<>0<><>::uid://uwf7s2uvyd2n::::res://assets/sprites/coin.png<>uid://d2d34ref8meal::::res://coin.gd
+game.tscn::PackedScene::7944488237616176609::1766285142::0::1::::<><><>0<>0<><>::uid://5sgy0k2htp7b::::res://scenes/player.tscn<>uid://dv6oqr1rhvhyb::::res://assets/sprites/world_tileset.png<>uid://cxqmu8vld5sr0::::res://scenes/platform.tscn<>uid://3be76dk6kxpo::::res://scenes/Box.tscn<>uid://c77dmdwttj4su::::res://scenes/Coin.tscn<>uid://4m1pc8hk6h6p::::res://scenes/killzone.tscn
+killzone.tscn::PackedScene::2061854583630042881::1766285041::0::1::::<><><>0<>0<><>::uid://bk4egv8kspue8::::res://scripts/killzone.gd
+MainMenu.tscn::PackedScene::5038829544604179208::1766271900::0::1::::<><><>0<>0<><>::uid://duruygvrx2p5x::::res://scripts/MainMenu.gd<>uid://d01e63edlpeus::::res://Main/Background/Mysterious glow in an enchanted cavern.png<>uid://031mlgepiaml::::res://Main/Background/Dust Serif.ttf<>uid://i84rs2igcf4u::::res://Main/Background/Flourishy-Divider-2.svg
+Option.tscn::PackedScene::314170429370947937::1766271900::0::1::::<><><>0<>0<><>::uid://cpg1jhbkhrhl2::::res://scripts/option.gd<>uid://d01e63edlpeus::::res://Main/Background/Mysterious glow in an enchanted cavern.png<>uid://031mlgepiaml::::res://Main/Background/Dust Serif.ttf<>uid://cxv2mktcqxp7w::::res://Main/Background/Vintage-Decorative-Divider.svg
+platform.tscn::PackedScene::6420980901133645539::1766271900::0::1::::<><><>0<>0<><>::uid://cj3s7vxj8rnh::::res://assets/sprites/platforms.png
+player.tscn::PackedScene::2143232599493037541::1766284247::0::1::::<><><>0<>0<><>::uid://bk7fpb56gw4cg::::res://assets/sprites/knight.png<>uid://bux5sduerh0gr::::res://scripts/player.gd
+::res://scripts/::1766285142
+MainMenu.gd::GDScript::8599390892953224951::1766285107::0::1::::<>Control<><>0<>0<><>::
+option.gd::GDScript::5839655372110759333::1766271900::0::1::::<>Control<><>0<>0<><>::
+player.gd::GDScript::3839532087541308041::1766282474::0::1::::<>CharacterBody2D<><>0<>0<><>::
+killzone.gd::GDScript::3148430812123573521::1766285142::0::1::::<>Area2D<><>0<>0<><>::
+::res://scripts/Game_Jam/::1766271900

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://031mlgepiaml"
-path="res://.godot/imported/Dust Serif.ttf-82f3589d68efd26b378316401a607379.fontdata"
+path="res://.godot/imported/Dust Serif.ttf-efa3b526853e868e9d04e1adbdecef69.fontdata"
 
 [deps]
 
-source_file="res://Platformer-Game/Main/Background/Dust Serif.ttf"
-dest_files=["res://.godot/imported/Dust Serif.ttf-82f3589d68efd26b378316401a607379.fontdata"]
+source_file="res://Main/Background/Dust Serif.ttf"
+dest_files=["res://.godot/imported/Dust Serif.ttf-efa3b526853e868e9d04e1adbdecef69.fontdata"]
 
 [params]
 
