@@ -1,4 +1,4 @@
-# Platformer-Game (Godot 2D Platformer)
+# Three Body Problem (Godot 2D Platformer)
 
 A 2D platformer game built with the [Godot Engine](https://godotengine.org/) using GDScript.
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 3. Open the project in Godot:
-   - Launch Godot 4.x
+   - Launch Godot 4.5+ (or a compatible newer 4.x release)
    - Click **Import**
    - Select the `project.godot` file in this repository
 
