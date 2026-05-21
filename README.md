@@ -9,9 +9,9 @@ A 2D platformer game built with the [Godot Engine](https://godotengine.org/) usi
 ![Gameplay screenshot 1](pictures/Screenshot%20From%202026-05-21%2016-05-14.png)
 ![Gameplay screenshot 2](pictures/Screenshot%20From%202026-05-21%2016-05-26.png)
 
-### Gameplay Video
+### Gameplay GIF
 
-<video src="pictures/Screencast%20From%202026-05-21%2016-05-49.mp4" controls></video>
+![Gameplay GIF](pictures/gameplay.gif)
 
 ## Prerequisites
 
