@@ -6,8 +6,9 @@ A 2D platformer game built with the [Godot Engine](https://godotengine.org/) usi
 
 ### Screenshots
 
-![Gameplay screenshot 1](pictures/Game_preview.png)
 ![Main menu screenshot](pictures/main_menu.png)
+##
+![Gameplay screenshot 1](pictures/Game_preview.png)
 
 ### Gameplay GIF
 
