@@ -1,0 +1,7 @@
+# This repository is a Godot/GDScript game project.
+# No Python packages are required to run the game itself.
+#
+# You can still run:
+#   pip install -r requirements.txt
+# This will complete without installing anything unless tooling dependencies
+# are added here in the future.
