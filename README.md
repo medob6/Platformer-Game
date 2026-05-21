@@ -45,16 +45,19 @@ brew install godot
    ```
 
 ### Linux (Ubuntu/Debian)
+
+**Option 1: Using Snap (recommended)**
 ```bash
-sudo apt update
-sudo apt install godot
+sudo snap install godot --classic
 ```
 
-Or download the latest release from [godotengine.org/download](https://godotengine.org/download) and extract it.
-
-After extraction, add Godot to PATH:
+**Option 2: Manual download (for Debian Trixie and other systems where package manager installation fails)**
 ```bash
-export PATH="/path/to/godot:$PATH"
+cd ~/Downloads
+wget https://github.com/godotengine/godot/releases/download/4.5-stable/Godot_v4.5-stable_linux.x86_64.zip
+unzip Godot_v4.5-stable_linux.x86_64.zip
+chmod +x Godot_v4.5-stable_linux.x86_64
+sudo mv Godot_v4.5-stable_linux.x86_64 /usr/local/bin/godot
 ```
 
 Verify installation:
